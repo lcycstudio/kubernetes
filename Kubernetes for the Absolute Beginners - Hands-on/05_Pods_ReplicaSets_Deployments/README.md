@@ -674,8 +674,6 @@ kubectl create -f deployment-definition.yml --record
 ```
 
 
-
-
 ### Hands-On Lab: Practice Test Rolling Updates and Rollbacks
 
 #### Question 1. We have deployed a simple web application. Inspect the PODs and the Services
