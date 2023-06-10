@@ -2,4 +2,4 @@
 
 ## [Course Link](https://www.udemy.com/course/learn-kubernetes/)
 
-## [Course Certificate](https://www.udemy.com/certificate/UC-7ff15d4f-f4a0-42ca-943e-aaadf6a67986/)
+## [Course Certificate](https://www.udemy.com/certificate/UC-1c24c73e-5c88-4b89-b8a2-b69a5cf1f1cf/)
