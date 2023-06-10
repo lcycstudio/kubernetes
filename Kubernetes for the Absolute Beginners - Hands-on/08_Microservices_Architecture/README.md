@@ -11,7 +11,7 @@
 
 ### Microservices Application
 
-![Microservices Sample Application](https://github.com/lcycstudio/kubernetes/tree/master/Kubernetes%20for%20the%20Absolute%20Beginners%20-%20Hands-on/08_Microservices_Architecture/microservices.png)
+![Microservices Sample Application](https://github.com/lcycstudio/kubernetes/blob/master/Kubernetes%20for%20the%20Absolute%20Beginners%20-%20Hands-on/08_Microservices_Architecture/microservices.png)
 
 #### Redis (6379)
 ```
@@ -117,7 +117,7 @@ Open the web browser on your computer and navigate to the following URLs
 ### Demo - Deploying Microservices Application on Kubernetes with Deployments
 
 
-![Microservices Deployment](https://github.com/lcycstudio/kubernetes/tree/master/Kubernetes%20for%20the%20Absolute%20Beginners%20-%20Hands-on/08_Microservices_Architecture/deployment.png)
+![Microservices Sample Application](https://github.com/lcycstudio/kubernetes/blob/master/Kubernetes%20for%20the%20Absolute%20Beginners%20-%20Hands-on/08_Microservices_Architecture/deployment.png)
 
 
 Check the files inside `voting-app` folder and run the commands below on your terminal
